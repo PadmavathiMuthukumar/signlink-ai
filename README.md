@@ -48,6 +48,8 @@ Integration with smart devices (IoT)
 Slide navigation via gestures for presentations
 
 Emotion detection and context-aware responses
+
+3D Animation for Education Purpose
 ```
 ## Purpose
 ```
